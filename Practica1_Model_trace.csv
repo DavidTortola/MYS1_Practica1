@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.666048602976437;Cliente.112;ServicioCompleto1;0.OnEnteredProcessing;[Assign] AfterProcessingAssignments;Data type mismatch in state variable assignment.
+0.666048602976437;Cliente.112;ServicioCompleto1;0.OnEnteredProcessing;[Assign] AfterProcessingAssignments;State variable 'Model.Ingresos' is of type 'Number' but attempting to assign value '' that is of type 'Any'.
+
